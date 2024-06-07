@@ -32,12 +32,17 @@ function transformString(input) {
 }
 
 // Example 1
-console.log(transformString("Gakiza")); // Output: "azakiG"
+console.log(transformString("Gakiza")); // Output: "azakiG" (run to see the output)
+let name = "Gaziza";
+console.log(name.length);
 
 // Example 2
-console.log(transformString("Hey there i am coding")); // Output: "gnidoc ma i ereht yeH"
+console.log(transformString("Hey there i am coding")); // Output: "gnidoc ma i ereht yeH"(run to see the output)
+let hey = "Hey there i am coding";
+console.log(hey.length);
 
 // Example 3
-console.log(transformString("Chocolate Chips")); // Output: "Chocolate Chipss"
+console.log(transformString("Chocolate Chips")); // Output: "Chocolate Chipss"(run to see the output)
+
 let stringss = "Chocolate Chipss";
 console.log(stringss.length);
