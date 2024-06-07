@@ -27,7 +27,7 @@ function contiguousSubarrayWithSum(arr, target) {
 // Example 1
 const arr = [4, 2, 7, 1, 9, 5];
 const target = 17;
-console.log(contiguousSubarrayWithSum(arr, t)); // Output is true
+console.log(contiguousSubarrayWithSum(arr, target)); // Output is true
 
 //Example 2
 const nbr = [1, 4, 3, 2];
