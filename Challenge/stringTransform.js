@@ -38,4 +38,6 @@ console.log(transformString("Gakiza")); // Output: "azakiG"
 console.log(transformString("Hey there i am coding")); // Output: "gnidoc ma i ereht yeH"
 
 // Example 3
-console.log(transformString("Chocolate Chipss")); // Output: "Chocolate Chipss"
+console.log(transformString("Chocolate Chips")); // Output: "Chocolate Chipss"
+let stringss = "Chocolate Chipss";
+console.log(stringss.length);
