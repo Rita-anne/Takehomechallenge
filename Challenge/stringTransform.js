@@ -33,7 +33,7 @@ function transformString(input) {
 
 // Example 1
 console.log(transformString("Gakiza")); // Output: "azakiG" (run to see the output)
-let name = "Gaziza";
+let name = "Gakiza";
 console.log(name.length);
 
 // Example 2
